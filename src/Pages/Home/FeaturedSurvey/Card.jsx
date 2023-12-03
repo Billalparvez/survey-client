@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable no-unused-vars */
 import Tilt from 'react-parallax-tilt';
 import ReactParallaxTilt from "react-parallax-tilt";
 import { Link } from "react-router-dom";
