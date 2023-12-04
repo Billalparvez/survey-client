@@ -19,7 +19,7 @@ const Surveys = () => {
     const travel = survey.filter(data => data.category === 'Travel')
     const technology = survey.filter(data => data.category === 'Technology')
     const education = survey.filter(data => data.category === 'Education')
-    console.log(travel)
+    console.log(technology)
     return (
         <div className="min-h-screen px-10 pt-28">
             <Container>
